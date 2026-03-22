@@ -19,8 +19,8 @@ class ListNode {
 }
 
 class InsertAtHead{
-    public ListNode insertAtHead(ListNode head, int X) {
-        ListNode newNode = new ListNode(X);
+    public ListNode insertAtHead(ListNode head, int val) {
+        ListNode newNode = new ListNode(val);
         newNode.next = head;
         head = newNode;
 
