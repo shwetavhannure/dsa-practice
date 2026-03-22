@@ -1,13 +1,17 @@
 # DSA Practice
 
-I am solving Data Structures and Algorithms (DSA) problems from LeetCode to improve my problem-solving skills.
+I am solving Data Structures and Algorithms (DSA) problems to improve my problem-solving skills and prepare for coding interviews.
 
-## Topics Covered:
+## 🧠 Topics Covered
 
 * Linked List
 
-## Goal:
+## 🎯 Goal
 
-To strengthen problem-solving ability and prepare for coding interviews.
+To strengthen problem-solving ability, build consistency, and gain confidence for technical interviews.
+
+## 💻 Language
+
+* Java
 
 
